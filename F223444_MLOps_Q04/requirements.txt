@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.14.1
+scikit-learn==1.5.2
+
+astro-run-dag # This package is needed for the astro run command. It will be removed before a deploy
